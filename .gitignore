@@ -2,3 +2,6 @@ output
 logs
 .idea
 *.zip
+.python-version
+__pycache__
+.vscode
